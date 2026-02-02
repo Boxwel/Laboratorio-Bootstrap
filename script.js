@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let tareas = [
     { id: 1, texto: "Tender la cama" },
-    { id: 2, texto: "Sacar al perrito" },
+    { id: 2, texto: "Pasear el perro" },
   ];
 
   function renderizarTareas() {
